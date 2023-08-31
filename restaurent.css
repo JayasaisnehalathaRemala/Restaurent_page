@@ -1,0 +1,52 @@
+
+body{
+  background-color: rgb(134, 33, 33);
+}
+.one {
+  background-color: brown;
+  width: 100%;
+}
+.two {
+  margin-left: 60px;
+  margin-top: 30px;
+
+}
+.p1 {
+  font-weight: bold;
+  margin-left: 60px;
+  margin-top: 5px;
+}
+.four {
+  background-color: brown;
+  text-align: center;
+}
+.five {
+  background-color: brown;
+  width: 100%;
+  height: 500px;
+  float: none !important;
+  margin-top: 600px;
+  
+}
+.eight {
+  font-weight: bold;
+  font-size: 25px;
+}
+.six {
+  margin-left: 100px !important;
+}
+li {
+  font-size: 20px;
+}
+.seven {
+  text-align: center;
+}
+input[type="text"] {
+  width: 90%;
+  border: none;
+  border-bottom: 2px solid rgb(0, 0, 0);
+  padding: 5px;
+}
+label {
+  font-size: 20px;
+}
